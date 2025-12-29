@@ -17,10 +17,10 @@ This is a SQL Data Analysis project. The project involves
 - aggregate functions,
 - date functions.
 
-It could be coded along following this video:  
+The project can be coded along following this video:  
 [SQL Data Analyst Portfolio Project](https://www.youtube.com/watch?v=2jGhQpbzHes)
 
-My code differs from the video, as I implemented this project in PostgreSQL, whereas the video tutorial is based on a different SQL Database Management System.
+My code differs from the video, as I implemented this project in PostgreSQL, whereas the video is based on a different SQL Database Management System.
 
 ## Project Details
 
